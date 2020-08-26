@@ -1,0 +1,7 @@
+Src/SEGGER/SEGGER_RTT_Syscalls_SES.o: \
+ ../Src/SEGGER/SEGGER_RTT_Syscalls_SES.c ../Src/SEGGER/SEGGER_RTT.h \
+ ../Src/SEGGER/SEGGER_RTT_Conf.h
+
+../Src/SEGGER/SEGGER_RTT.h:
+
+../Src/SEGGER/SEGGER_RTT_Conf.h:

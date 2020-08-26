@@ -1,0 +1,3 @@
+stdio.h:200:5:printf	144	static
+stdio.h:221:5:puts	16	static
+SEGGER_RTT_Syscalls_SES.c:80:5:__getchar	8	static

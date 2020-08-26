@@ -1,0 +1,7 @@
+GPIO.c:112:14:GPIO_Init	24	static
+GPIO.c:272:14:GPIO_SetOutput	24	static
+GPIO.c:297:14:GPIO_ClearOutput	24	static
+GPIO.c:323:14:GPIO_ReadInput	24	static
+GPIO.c:356:15:GPIO_ToggleOutput	24	static
+GPIO.c:379:14:GPIO_Reconfigure	24	static
+GPIO.c:392:14:GPIO_DeInit	32	static

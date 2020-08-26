@@ -1,0 +1,9 @@
+core_cm4.h:1596:22:NVIC_SetPriorityGrouping	24	static
+core_cm4.h:1698:22:NVIC_SetPriority	16	static
+core_cm4.h:1830:26:SysTick_Config	16	static
+sys_cfg_stm32f407.c:31:6:Sys_Enable_Peripherals_Clock	8	static
+sys_cfg_stm32f407.c:50:6:Sys_Configure_Clock_168MHz	8	static
+sys_cfg_stm32f407.c:118:6:Sys_Configure_Clock_168MHz_HSI	8	static
+sys_cfg_stm32f407.c:175:6:Sys_DeInit_Clock	4	static
+sys_cfg_stm32f407.c:185:6:Sys_Enable_LSE	4	static
+sys_cfg_stm32f407.c:209:10:Sys_Get_Tick	4	static
